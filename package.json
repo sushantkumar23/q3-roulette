@@ -1,0 +1,37 @@
+{
+  "name": "q3-roulette",
+  "version": "1.0.0",
+  "description": "Roulette game based on Solana blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantkumar23/q3-roulette.git"
+  },
+  "keywords": [
+    "roulette",
+    "game",
+    "solana",
+    "blockchain",
+    "web3",
+    "metaverse",
+    "crypto",
+    "rust",
+    "javascript",
+    "smart-contract"
+  ],
+  "author": "Sushant Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantkumar23/q3-roulette/issues"
+  },
+  "homepage": "https://github.com/sushantkumar23/q3-roulette#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0"
+  }
+}
